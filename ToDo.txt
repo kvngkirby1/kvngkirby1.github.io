@@ -1,0 +1,9 @@
+
+
+*  CPATH handout
+*  Chaos and Conf Syntax
+*  Physic colloq info
+*  Ref to graphical models correct in Swerve?  
+*  Smaller footer, make font pop against white 
+
+
